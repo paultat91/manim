@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/1080p60/partial_movie_files/TexFalling/450974505_1846335380_976005967.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/1080p60/partial_movie_files/TexFalling/34786186_1846335380_3062129084.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/1080p60/partial_movie_files/TexFalling/34786186_1846335380_3302394491.mp4'

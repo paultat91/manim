@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/Density/2899932836_3987251656_2435217882.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/Density/2899932836_1815197871_2457588241.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/Density/2899932836_203189735_2204006587.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/Density/2899932836_1975110791_3372796051.mp4'

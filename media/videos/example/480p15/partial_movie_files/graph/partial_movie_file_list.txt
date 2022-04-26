@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/graph/3163782288_2553116655_223132457.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/graph/2201830969_304300891_711206247.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/graph/2201830969_2471300832_1908417915.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/graph/2201830969_2662771063_3734504095.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/graph/2201830969_3436325920_3730484765.mp4'
+file 'file:/home/paul/Documents/github/PHYENG/manim/media/videos/example/480p15/partial_movie_files/graph/2201830969_3500844699_603388445.mp4'
