@@ -480,6 +480,7 @@ class projectile_motion(Scene):
 
         self.play(UpdateFromAlphaFunc(bullet, motion))
         self.wait()
+        
 
 
 
